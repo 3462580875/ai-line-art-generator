@@ -70,7 +70,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven platform that trans
 
 ### ⚙️ 适配的 AI 引擎支持
 *   **Nano Banana Pro**: 业内最火模型，适合简约卡通和涂色稿
-*   **Seedream 5 (豆包)**: 针对人像和花卉细节进行了深度增强。
+*   **Seedream 5 (豆包)**: 针对人像和花卉细节进行了深度增强
 *   **Flux-Kontext**: 提供专业级的手绘线条质感
 
 ### ❓ 常见问题 (FAQ)
