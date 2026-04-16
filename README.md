@@ -77,7 +77,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven platform that trans
 
 <details>
 <summary><strong>生成的线稿可以进行商用吗？</strong></summary>
-<p>可以。生成的线稿授予用户完整商业使用权，您可以放心将其用于纹身设计、文创产品、书籍插画或营销宣传。</p>
+<p>可以。生成的线稿授予用户完整商业使用权，您可以放心将其用于纹身设计、文创产品、书籍插画或营销宣传</p>
 </details>
 
 <details>
