@@ -82,7 +82,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven platform that trans
 
 <details>
 <summary><strong>为什么 AI 生成的线稿比手绘更精准？</strong></summary>
-<p>AI 深度学习了海量的植物结构数据，能够精准推算出花瓣的透视和重叠关系，生成的线条不仅流畅，且符合逻辑结构。</p>
+<p>AI 深度学习了海量的植物结构数据，能够精准推算出花瓣的透视和重叠关系，生成的线条不仅流畅，且符合逻辑结构</p>
 </details>
 
 <details>
