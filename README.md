@@ -21,7 +21,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven platform that trans
 *   **✨ Text-to-Floral Sketch:** Describe the blooming state, petals, and style, and the AI renders it instantly
 *   **🎭 Versatile Art Styles:** Choose from **Realistic**, **Minimalist**, **Decorative Art**, and **Professional Tattoo** styles
 *   **⚡ Rapid AI Rendering:** Get high-definition line art in 20-30 seconds
-*   **📦 Commercial Usage:** Generated sketches are royalty-free and ready for design projects and merchandise.
+*   **📦 Commercial Usage:** Generated sketches are royalty-free and ready for design projects and merchandise
 *   **💰 100% Free:** No registration or subscription required. Access professional AI sketching power online.
 
 **[➡️ Try the Rose Line Art Generator for Free](https://www.sipingseo.com/zh/line-art-generator/rose-line-art-generator)**
