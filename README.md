@@ -56,7 +56,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven platform that trans
 | ![简约玫瑰轮廓](https://img.sipingseo.com/file/rose-line-art-generator/VwWyWyFT.webp) | ![极简玫瑰线条](https://img.sipingseo.com/file/rose-line-art-generator/2waBLSOn.webp) |
 
 #### 3. 装饰与纹身风格 (Decorative & Tattoo)
-融合对称纹样或适合人体曲线的设计，确保刺青效果清晰持久。
+融合对称纹样或适合人体曲线的设计，确保刺青效果清晰持久
 | 艺术装饰风格 | 专业纹身线稿 |
 | :---: | :---: |
 | ![装饰玫瑰线稿](https://img.sipingseo.com/file/rose-line-art-generator/UhqOsmfW.webp) | ![纹身专用线稿](https://img.sipingseo.com/file/rose-line-art-generator/ptjtr50w.webp) |
