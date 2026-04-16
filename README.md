@@ -66,7 +66,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven platform that trans
 1.  **上传参考图 (可选)**: 导入玫瑰照片帮助 AI 更好地理解您需要的形态
 2.  **撰写线稿描述**: 输入您的设计指令。*例如：“一朵盛开的玫瑰花，简约风格，线条细腻分明”*
 3.  **选择模型**: 根据需求选择 `line art pro` (精细)、`sketch master` (手绘) 或 `quick sketch` (草图)
-4.  **生成并下载**: 点击“生成玫瑰线稿”，满意后免费下载高清原图
+4.  **生成并下载**: 点击“生成玫瑰线稿”，满意后免费下载高清原图！
 
 ### ⚙️ 适配的 AI 引擎支持
 *   **Nano Banana Pro**: 业内最火模型，适合简约卡通和涂色稿
