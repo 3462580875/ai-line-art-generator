@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/rose-line-art-generator)
 [![Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/rose-line-art-generator)
 
-**SPAI 玫瑰线稿助手是一款基于尖端 AI 算法的在线创作工具。无论您是纹身师、平面设计师还是花卉绘画爱好者，只需输入简单的文字描述或上传参考图，AI 即可在 20 秒内为您绘制出精美、清晰的玫瑰轮廓线稿。支持写实、简约、装饰及纹身专用风格，彻底解放您的双手**
+**SPAI 玫瑰线稿助手是一款基于尖端 AI 算法的在线创作工具。无论您是纹身师、平面设计师还是花卉绘画爱好者，只需输入简单的文字描述或上传参考图，AI 即可在 20 秒内为您绘制出精美、清晰的玫瑰轮廓线稿。支持写实、简约、装饰及纹身专用风格，彻底解放您的双手！**
 
 ## ➡️ **[立即开启玫瑰线稿创作 | Start Generating Rose Line Art](https://www.sipingseo.com/zh/line-art-generator/rose-line-art-generator)**
 
