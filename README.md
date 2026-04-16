@@ -50,7 +50,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven platform that trans
 | ![写实玫瑰线稿](https://img.sipingseo.com/file/rose-line-art-generator/KpyBnd8a.webp) | ![写实细节玫瑰](https://img.sipingseo.com/file/rose-line-art-generator/VhvtgxTA.webp) |
 
 #### 2. 简约玫瑰线稿 (Minimalist Style)
-单线条勾勒，形态优雅概括，适合纹身设计、Logo 创作及品牌标识。
+单线条勾勒，形态优雅概括，适合纹身设计、Logo 创作及品牌标识
 | 示例 1 | 示例 2 |
 | :---: | : :---: |
 | ![简约玫瑰轮廓](https://img.sipingseo.com/file/rose-line-art-generator/VwWyWyFT.webp) | ![极简玫瑰线条](https://img.sipingseo.com/file/rose-line-art-generator/2waBLSOn.webp) |
